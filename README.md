@@ -30,7 +30,8 @@ Le projet s'appuie sur deux sources de données interconnectées :
 
 **🔑 Résultats clés**
 
-<img width="1220" height="806" alt="Dashboard" src="https://github.com/user-attachments/assets/5b4665be-6cbd-4102-b56e-842396920d51" />
+<img width="1226" height="805" alt="Dashboard" src="https://github.com/user-attachments/assets/579583b7-0014-4741-aee1-b9fb9e24cf73" />
+
 
 - **Un Churn Critique :** Le taux de churn global atteint **42%**. Le problème est structurel (homogène sur l’âge, le type d'appareil et le niveau d’offre).
 - **La Fracture de l'Acquisition :** Les offres promotionnelles affichent 50% de churn, contre 34% pour le parrainage. Un écart qui suggère que les clients acquis par recommandation ont un engagement plus durable.

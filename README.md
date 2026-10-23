@@ -49,6 +49,6 @@ Le projet s'appuie sur deux sources de données interconnectées :
 **📂 Contenu du repo** 
 
 - [Voir le notebook complet](notebook.ipynb) : nettoyage, analyse et modélisation
-- [Voir requêtes SQL](requêtes.sql) : requetes sql :
-- [Voir Dashboard interactif sur Tableau Public](https://public.tableau.com/views/AnalyseduchurndePeloton/Tableaudebord1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) : Lien vers le Dashboard Tableau Public
+- [Voir requêtes SQL](requêtes.sql) 
+- [Voir Dashboard interactif sur Tableau Public](https://public.tableau.com/views/AnalyseduchurndePeloton/Tableaudebord1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 - [Voir Datasets](https://www.datacareerschool.com/datalabs/customer-churn-analysis)

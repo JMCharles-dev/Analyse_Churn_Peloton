@@ -30,12 +30,14 @@ Le projet s'appuie sur deux sources de données interconnectées :
 
 **🔑 Résultats clés**
 
+<img width="1220" height="806" alt="Dashboard" src="https://github.com/user-attachments/assets/5b4665be-6cbd-4102-b56e-842396920d51" />
+
 - **Un Churn Critique :** Le taux de churn global atteint **42%**. Le problème est structurel (homogène sur l’âge, le type d'appareil et le niveau d’offre).
 - **La Fracture de l'Acquisition :** Les offres promotionnelles affichent 50% de churn, contre 34% pour le parrainage. Un écart qui suggère que les clients acquis par recommandation ont un engagement plus durable.
 - **Le Signal Faible de l'Inactivité :** Les clients qui résilient sont **40% moins actifs** dès leur premier mois. De plus, **40% du churn total** se produit durant les 3 premiers mois d’abonnement.
-- **Performance du Modèle :** La régression logistique prédit le risque de churn avec une **exactitude (accuracy)** de 69%.
-  
-<img src="images/dashboard.png" width="700">
+- **Performance du Modèle :** La régression logistique prédit le risque de churn avec une exactitude de 69%, confirme les facteurs identifiés dans l’analyse de comportement et d'usage et apporte une précision : c’est la régularité des séances, plus que le temps passé, qui protège le mieux du risque de churn.
+<img width="787" height="586" alt="image" src="https://github.com/user-attachments/assets/81fdc002-7abd-4570-b081-3bd1a2553c4e" />
+
 
 **💡 Recommandations**
 

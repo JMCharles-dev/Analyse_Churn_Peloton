@@ -35,7 +35,7 @@ Le projet s'appuie sur deux sources de données interconnectées :
 - **Le Signal Faible de l'Inactivité :** Les clients qui résilient sont **40% moins actifs** dès leur premier mois. De plus, **40% du churn total** se produit durant les 3 premiers mois d’abonnement.
 - **Performance du Modèle :** La régression logistique prédit le risque de churn avec une **exactitude (accuracy)** de 69%.
   
-<img src="dashboard.png" width="700">
+<img src="images/dashboard.png" width="700">
 
 **💡 Recommandations**
 
@@ -47,5 +47,5 @@ Le projet s'appuie sur deux sources de données interconnectées :
 
 - [Voir le notebook complet](notebook.ipynb) : nettoyage, analyse et modélisation
 - [Voir requêtes SQL](requêtes.sql) : requetes sql :
-- [Voir Dashboard interactif sur Tableau Public]([https://public.tableau.com/views/...](https://public.tableau.com/views/AnalyseduchurndePeloton/Tableaudebord1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) : Lien vers le Dashboard Tableau Public
-- [Voir Datasets]([https://public.tableau.com/views/...](https://www.datacareerschool.com/datalabs/customer-churn-analysis)) 
+- [Voir Dashboard interactif sur Tableau Public](https://public.tableau.com/views/AnalyseduchurndePeloton/Tableaudebord1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) : Lien vers le Dashboard Tableau Public
+- [Voir Datasets](https://www.datacareerschool.com/datalabs/customer-churn-analysis)

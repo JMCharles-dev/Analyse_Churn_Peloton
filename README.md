@@ -34,6 +34,8 @@ Le projet s'appuie sur deux sources de données interconnectées :
 - **La Fracture de l'Acquisition :** Les offres promotionnelles affichent 50% de churn, contre 34% pour le parrainage. Un écart qui suggère que les clients acquis par recommandation ont un engagement plus durable.
 - **Le Signal Faible de l'Inactivité :** Les clients qui résilient sont **40% moins actifs** dès leur premier mois. De plus, **40% du churn total** se produit durant les 3 premiers mois d’abonnement.
 - **Performance du Modèle :** La régression logistique prédit le risque de churn avec une **exactitude (accuracy)** de 69%.
+  
+<img src="dashboard.png" width="700">
 
 **💡 Recommandations**
 
@@ -44,6 +46,6 @@ Le projet s'appuie sur deux sources de données interconnectées :
 **📂 Contenu du repo** 
 
 - [Voir le notebook complet](notebook.ipynb) : nettoyage, analyse et modélisation
-- SQL : requetes.sql :
-- `dashboard_peloton.twbx` : Lien vers le Dashboard Tableau Public
-- `/data` : Échantillons de données anonymisées (ou mention des sources d'origine).
+- [Voir requêtes SQL](requêtes.sql) : requetes sql :
+- [Voir Dashboard interactif sur Tableau Public]([https://public.tableau.com/views/...](https://public.tableau.com/views/AnalyseduchurndePeloton/Tableaudebord1?:language=fr-FR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) : Lien vers le Dashboard Tableau Public
+- [Voir Datasets]([https://public.tableau.com/views/...](https://www.datacareerschool.com/datalabs/customer-churn-analysis)) 

@@ -28,7 +28,7 @@ Le projet s'appuie sur deux sources de données interconnectées :
 2. **Analyse Exploratoire :** Profil des clients partis, analyse de l'activité et cartographie de la saisonnalité temporelle.
 3. **Modèle Prédictif :** Entraînement d'une régression logistique pour scorer le risque de churn de chaque client dès son premier mois.
 
-**🔑 Résultats clés**
+**🔑 Résultats clés**  + de détaille dans le [notebook](Notebook.ipynb)
 
 <img width="1226" height="805" alt="Dashboard" src="https://github.com/user-attachments/assets/579583b7-0014-4741-aee1-b9fb9e24cf73" />
 
